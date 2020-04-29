@@ -7,9 +7,13 @@ class B(A):
 
 
 def function():
+    # to the left
     return None
 
 
 def another_function():
     return None
 
+
+def added_on_github():
+    pass
