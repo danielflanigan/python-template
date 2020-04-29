@@ -2,7 +2,7 @@ class A:
     pass
 
 
-class Bass(A):
+class B(A):
     pass
 
 
@@ -12,6 +12,3 @@ def function():
 
 def another_function():
     return None
-
-function hay
-funny staff 2 56
