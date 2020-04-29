@@ -2,7 +2,7 @@ class A:
     pass
 
 
-class B(A):
+class Bass(A):
     pass
 
 
